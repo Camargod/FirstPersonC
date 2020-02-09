@@ -1,0 +1,4 @@
+﻿  ConsoleFPS.cpp
+C:\Users\richa\source\repos\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(16,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\richa\source\repos\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(83,26): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  ConsoleFPS.vcxproj -> C:\Users\richa\source\repos\ConsoleFPS\Debug\ConsoleFPS.exe
