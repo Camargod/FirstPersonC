@@ -1,0 +1,5 @@
+﻿  ConsoleFPS.cpp
+C:\Users\GABRIELSILVADECAMARG\source\repos\FirstPersonC\ConsoleFPS\ConsoleFPS.cpp(22,27): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\GABRIELSILVADECAMARG\source\repos\FirstPersonC\ConsoleFPS\ConsoleFPS.cpp(134,44): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\GABRIELSILVADECAMARG\source\repos\FirstPersonC\ConsoleFPS\ConsoleFPS.cpp(145,26): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  ConsoleFPS.vcxproj -> C:\Users\GABRIELSILVADECAMARG\source\repos\FirstPersonC\x64\Debug\ConsoleFPS.exe
